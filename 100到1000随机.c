@@ -5,7 +5,7 @@
  {int i;
    srand((unsigned)time(NULL));
 i=100+rand()%901;
-printf("%d",i);
+printf("%d\n",i);
 return 0;
 
  }
