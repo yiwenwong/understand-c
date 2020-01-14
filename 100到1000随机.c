@@ -1,5 +1,4 @@
-100到1000随机.c
- #include<stdio.h>
+#include<stdio.h>
  #include<stdlib.h>
  #include<time.h>
  int main()
